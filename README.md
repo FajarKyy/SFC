@@ -16,4 +16,5 @@ Dump Friendlist (Massal)
 Dump Friendlist (Id New)
 ```
 
-*Results*
+*Code*
+![IMG_20240525_174615](https://github.com/FajarKyy/SFC/assets/123274988/7f447e72-839e-48e6-86a9-301686208963)
